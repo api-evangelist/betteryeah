@@ -18,7 +18,7 @@ specificationVersion: '0.20'
 
 created: '2026-09-28'
 
-modified: '2026-09-28'
+modified: '2026-10-06'
 
 tags:
 - Company
@@ -30,6 +30,8 @@ maintainers:
   email: info@apis.io
 
 common:
+- url: https://www.betteryeah.com/blog/
+  type: Blog
 - type: Hosts
   url: hosts/betteryeah-hosts.yml
 - type: SDKs
